@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tasks Notification</string>
+    <string name="app_greeting">Hello %1$s! You should see your tasks list in the notification drawer…</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="preference_file_key">task_preferences</string>
+</resources>
